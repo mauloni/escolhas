@@ -1,0 +1,5 @@
+RUMO À FINAL - JOGO DE ESCOLHAS
+Envie os cinco arquivos .html, .css e .js para a raiz de um repositório público no GitHub.
+Ative Settings > Pages > Deploy from a branch > main > /(root).
+Acesse o endereço https://SEU-USUARIO.github.io/NOME-REPOSITORIO/ para jogar.
+O projeto utiliza módulos ES, portanto não funciona abrindo index.html diretamente com file://.
